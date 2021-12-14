@@ -21,7 +21,7 @@ public class Main {
         alan=(pi*(yaricap*yaricap)*aci)/360;
         System.out.println("çevre :"+cevre);
         System.out.println("alan :"+alan);
-     
+
 
     }
 }
